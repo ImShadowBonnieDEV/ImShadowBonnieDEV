@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ImShadowBonnieDEV
+- 👀 I’m interested in making shaders
+- 🌱 I’m currently learning java
